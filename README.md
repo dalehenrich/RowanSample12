@@ -1,17 +1,17 @@
-# RowanSample12 - spec_0001
-Create a bare bones package structure -Core and -Tests, the tests should validate the loaded state of project. Start with spec_0000 and add spec_0001 meat to the bones. This project is intended to be used as an external required project for RowanSample9
+# RowanSample12 - spec_0002
+Start with spec_0001 and change the tests attribute to mytests.
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0001',
+	#specName : 'spec_0002',
 	#projectName : 'RowanSample12',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample12.git',
-	#revision : 'spec_0001',
+	#revision : 'spec_0002',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
 	],
 	#customConditionalAttributes : [
-		'tests'
+		'mytests'
 	],
 	#platformProperties : {
 		'gemstone' : {
@@ -20,17 +20,19 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Create a bare bones package structure -Core and -Tests, the tests should validate the loaded state of project. Start with spec_0000 and add spec_0001 meat to the bones. This project is intended to be used as an external required project for RowanSample9'
+	#comment : 'Start with spec_0001 and change the tests attribute to mytests.'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0001',
-	#title : 'Create a bare bones package structure -Core and -Tests, the tests should validate the loaded state of project. Start with spec_0000 and add spec_0001 meat to the bones. This project is intended to be used as an external required project for RowanSample9',
-	#specName : 'spec_0001',
-	#index : 1,
-	#derivedFrom : 'spec_0000',
-	#comment : 'One class per package: RowanSample11-Core and RowanSample11-Tests packages ... External project for RowanSample9',
-	#rowanIssues : [ ],
+	#name : 'index_0002',
+	#title : 'Start with spec_0001 and change the tests attribute to mytests.',
+	#specName : 'spec_0002',
+	#index : 2,
+	#derivedFrom : 'spec_0001',
+	#comment : 'Duplicate of spec_0001 with only a change in customConditionalAttribues',
+	#rowanIssues : [
+		700
+	],
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31f85f24'
 }

@@ -4,9 +4,6 @@ I am an example class
 Class {
 	#name : 'RowanSample12Class1',
 	#superclass : 'Object',
-	#instVars : [
-		'ivar1'
-	],
 	#category : 'RowanSample12-Core'
 }
 

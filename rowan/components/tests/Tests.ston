@@ -1,8 +1,0 @@
-RwSimpleNestedProjectLoadComponentV2 {
-	#name : 'tests/Tests',
-	#condition : 'tests',
-	#projectNames : [ ],
-	#componentNames : [ ],
-	#packageNames : [ ],
-	#comment : 'Primary component used for loading the test classes.'
-}

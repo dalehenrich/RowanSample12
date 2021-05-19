@@ -1,0 +1,14 @@
+RwLoadSpecificationV2 {
+	#specName : 'RowanSample9_Parent',
+	#projectName : 'RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
+	#revision : 'spec_0069',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Parent'
+	],
+	#customConditionalAttributes : [
+		'tests'
+	],
+	#comment : ''
+}

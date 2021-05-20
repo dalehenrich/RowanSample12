@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0006',
+	#title : 'Start with spec_0000. The class RowanSample12ConcreteClass1 has a superclass AbstractRowanSample9BridgeClass1 from the project RowanSample9. This project requires RowanSample9:spec_0069. The method #foo is defined in RowanSample12ConcreteClass1.',
+	#specName : 'spec_0006',
+	#index : 6,
+	#derivedFrom : 'spec_0000',
+	#comment : 'jigsaw puzzle class relationships',
+	#rowanIssues : [
+		705
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : 'f49c8823'
+}

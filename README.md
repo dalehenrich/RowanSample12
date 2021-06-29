@@ -1,7 +1,7 @@
 # RowanSample12
 Sample project that is being used as an example required external project for use in RowanSample9.
 ## Summary of Load Specs
-### spec_0000
+### [spec_0000](https://github.com/dalehenrich/RowanSample12/tree/spec_0000)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0000',
@@ -37,7 +37,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '31f85f24'
 }
 ```
-### spec_0001
+### [spec_0001](https://github.com/dalehenrich/RowanSample12/tree/spec_0001)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0001',
@@ -73,7 +73,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '31f85f24'
 }
 ```
-### spec_0002
+### [spec_0002](https://github.com/dalehenrich/RowanSample12/tree/spec_0002)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0002',
@@ -111,7 +111,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '31f85f24'
 }
 ```
-### spec_0003
+### [spec_0003](https://github.com/dalehenrich/RowanSample12/tree/spec_0003)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0003',
@@ -149,7 +149,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '80c5d4e8'
 }
 ```
-### spec_0004
+### [spec_0004](https://github.com/dalehenrich/RowanSample12/tree/spec_0004)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0004',
@@ -187,7 +187,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : 'b51d45c4'
 }
 ```
-### spec_0005
+### [spec_0005](https://github.com/dalehenrich/RowanSample12/tree/spec_0005)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0005',
@@ -223,7 +223,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '02496f4e'
 }
 ```
-### spec_0006
+### [spec_0006](https://github.com/dalehenrich/RowanSample12/tree/spec_0006)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0006',

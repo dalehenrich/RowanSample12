@@ -3,7 +3,7 @@ I am an example class
 "
 Class {
 	#name : 'RowanSample12ConcreteClass1',
-	#superclass : 'AbstractRowanSample9BridgeClass1',
+	#superclass : 'AbstractRowanSample9V3BridgeClass1',
 	#category : 'RowanSample12-Core'
 }
 

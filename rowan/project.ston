@@ -1,8 +1,9 @@
-RwProjectSpecificationV2 {
+RwProjectSpecificationV3 {
 	#specName : 'project',
+	#projectVersion : '1.0.0',
 	#projectSpecPath : 'rowan',
 	#componentsPath : 'rowan/components',
-	#packagesPath : 'rowan/src',
+	#packagesPath : 'src',
 	#projectsPath : 'rowan/projects',
 	#specsPath : 'rowan/specs',
 	#packageFormat : 'tonel',

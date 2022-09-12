@@ -1,8 +1,7 @@
-RwSimpleProjectLoadComponentV2 {
+RwLoadComponent {
 	#name : 'Core',
-	#condition : 'common',
 	#projectNames : [
-		'RowanSample9'
+		'RowanSample9V3'
 	],
 	#componentNames : [
 		'tests/Tests'

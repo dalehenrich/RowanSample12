@@ -1,6 +1,5 @@
-RwSimpleProjectLoadComponentV2 {
+RwLoadComponent {
 	#name : 'Core',
-	#condition : 'common',
 	#projectNames : [
 		'RowanSample9_Parent'
 	],

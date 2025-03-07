@@ -1,9 +1,11 @@
 RwLoadComponent {
 	#name : 'Core',
-	#projectNames : [ ],
-	#componentNames : [
-		'tests/Tests'
+	#projectNames : [
+		'RowanSample9V4_Bridge'
 	],
-	#packageNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample12-Core'
+	],
 	#comment : 'Primary component used for loading the core classes.'
 }

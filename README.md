@@ -1,18 +1,16 @@
-# RowanSample12 - spec_0000
-Empty project with no packages
+# RowanSample12 - spec_0008
+Start with spec_0000. The class RowanSample12ConcreteClass1 subclasses AbstractRowanSample9ParentClass1 in RowanSample9:spec_0069, component Parent. RowanSample9V4. RowanSample9V4:spec_0069 componant Parent has the test. This spec requires RowanSample9V4:spec_0069. Based on spec_0005
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0000',
+	#specName : 'spec_0008',
 	#projectName : 'RowanSample12',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample12.git',
-	#revision : 'spec_0000',
+	#revision : 'spec_0008',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
 	],
-	#customConditionalAttributes : [
-		'tests'
-	],
+	#customConditionalAttributes : [ ],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
@@ -20,19 +18,21 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Empty project with no packages'
+	#comment : 'Start with spec_0000. The class RowanSample12ConcreteClass1 subclasses AbstractRowanSample9ParentClass1 in RowanSample9:spec_0069, component Parent. RowanSample9V4. RowanSample9V4:spec_0069 componant Parent has the test. This spec requires RowanSample9V4:spec_0069. Based on spec_0005'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0000',
-	#title : 'Empty project with no packages',
-	#specName : 'spec_0000',
-	#index : 0,
-	#derivedFrom : 'master',
-	#comment : '',
-	#rowanIssues : [ ],
+	#name : 'index_0008',
+	#title : 'Start with spec_0000. The class RowanSample12ConcreteClass1 subclasses AbstractRowanSample9ParentClass1 in RowanSample9:spec_0069, component Parent. RowanSample9V4. RowanSample9V4:spec_0069 componant Parent has the test. This spec requires RowanSample9V4:spec_0069. Based on spec_0005',
+	#specName : 'spec_0008',
+	#index : 5,
+	#derivedFrom : 'spec_0000',
+	#comment : 'jigsaw puzzle class relationships',
+	#rowanIssues : [
+		705
+	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '31f85f24'
+	#rowanSHA : '08dd15251'
 }
 ```
 

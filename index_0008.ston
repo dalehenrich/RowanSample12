@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0008',
+	#title : 'Start with spec_0000. The class RowanSample12ConcreteClass1 subclasses AbstractRowanSample9ParentClass1 in RowanSample9:spec_0069, component Parent. RowanSample9V4. RowanSample9V4:spec_0069 componant Parent has the test. This spec requires RowanSample9V4:spec_0069. Based on spec_0005',
+	#specName : 'spec_0008',
+	#index : 5,
+	#derivedFrom : 'spec_0000',
+	#comment : 'jigsaw puzzle class relationships',
+	#rowanIssues : [
+		705
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '08dd15251'
+}

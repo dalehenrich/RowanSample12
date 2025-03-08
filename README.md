@@ -279,12 +279,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0000. The class RowanSample12ConcreteClass1 has a superclass AbstractRowanSample9BridgeClass1 from the project RowanSample9V4. This project requires RowanSample9V4:spec_0069. The method #foo is defined in RowanSample12ConcreteClass1.'
+	#comment : 'Start with spec_0000. The class RowanSample12ConcreteClass1 has a superclass AbstractRowanSample9BridgeClass1 from the project RowanSample9V4. This project requires RowanSample9V4:spec_0069. The method #foo is defined in RowanSample12ConcreteClass1. Based on spec_0006'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0007',
-	#title : 'Start with spec_0000. The class RowanSample12ConcreteClass1 has a superclass AbstractRowanSample9BridgeClass1 from the project RowanSample9V4. This project requires RowanSample9V4:spec_0069. The method #foo is defined in RowanSample12ConcreteClass1.',
+	#title : 'Start with spec_0000. The class RowanSample12ConcreteClass1 has a superclass AbstractRowanSample9BridgeClass1 from the project RowanSample9V4. This project requires RowanSample9V4:spec_0069. The method #foo is defined in RowanSample12ConcreteClass1. Based on spec_0006',
 	#specName : 'spec_0007',
 	#index : 7,
 	#derivedFrom : 'spec_0000',

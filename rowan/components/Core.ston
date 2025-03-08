@@ -1,7 +1,7 @@
 RwLoadComponent {
 	#name : 'Core',
 	#projectNames : [
-		'RowanSample9V3_Parent'
+		'RowanSample9V4_Parent'
 	],
 	#componentNames : [ ],
 	#packageNames : [

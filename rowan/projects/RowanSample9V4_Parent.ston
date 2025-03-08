@@ -1,7 +1,7 @@
 RwLoadSpecificationV2 {
-	#specName : 'RowanSample9V3_Parent',
-	#projectName : 'RowanSample9V3',
-	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V3.git',
+	#specName : 'RowanSample9V4_Parent',
+	#projectName : 'RowanSample9V4',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V4.git',
 	#revision : 'spec_0069',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [

@@ -1,0 +1,19 @@
+RwLoadSpecificationV2 {
+	#specName : 'spec_0008',
+	#projectName : 'RowanSample12',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample12.git',
+	#revision : 'spec_0008',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core'
+	],
+	#customConditionalAttributes : [ ],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : 'RowanSample9_1'
+			}
+		}
+	},
+	#comment : 'Start with spec_0000. The class RowanSample12ConcreteClass1 subclasses AbstractRowanSample9ParentClass1 in RowanSample9:spec_0069, component Parent. RowanSample9V4. RowanSample9V4:spec_0069 componant Parent has the test. This spec requires RowanSample9V4:spec_0069. Based on spec_0005'
+}

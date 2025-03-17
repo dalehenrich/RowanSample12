@@ -1,0 +1,15 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0009',
+	#title : 'Start with spec_0003; part of recursive required project chain; RowanSample9V4 requires RowanSample10V3; RowanSample10V3 requires RowanSample11; RowanSample11 requires RowanSample12; RowanSamplle12 requires RowanSample9V4; class hierarchy runs RowanSample9V4Class2->RowanSample12Class1>RowanSample11Class1>RowanSample10V3Class1>RowanSample9V4Class1',
+	#specName : 'spec_0009',
+	#index : 9,
+	#derivedFrom : 'spec_0003',
+	#comment : 'recursive required project chain',
+	#rowanIssues : [
+		701,
+		861,
+		953
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '6708f237c'
+}
